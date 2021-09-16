@@ -6,10 +6,10 @@ const { Joi } = require("express-validation");
 const ChansonValidators = {
     validateCreate: {
         body: Joi.object({
-            titre: Joi.string().max(75).required(),
-            temps: Joi.number().integer().min(0).max(10).required(),
-            genre: Joi.string().max(250),
-            auteur: Joi.string().max(75).required(),
+            titre: Joi.string().max(80).required(),
+            temps: Joi.number().integer().min(0).max(100000).required(),
+            genre: Joi.string().max(80),
+            auteur: Joi.string().max(100).required(),
         }),
     },
     validateUpdate: {

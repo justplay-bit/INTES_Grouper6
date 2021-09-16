@@ -6,7 +6,7 @@ NodeJS Tp
    author：Xuechu WANG,Zhiwei PEI,Fan FEI
     
     Créer une API afin de gérer une liste de chansons dans une base de données MySQL,Implémentation de certaines API du CRUL, 
-    ainsi que de Vérifier la validité des données et les CORS
+    ainsi que de Vérifier la validité des données 
 
 1. Obtenez le code par le commande：
     git clone https://github.com/justplay-bit/INTES_Grouper6.git
@@ -21,9 +21,6 @@ NodeJS Tp
 3. Installer le framework express:
     npm install --save express
 		
-   Installer les CORS:
-    npm install et ng serve
-
 
 4. Démarrer le projet
     node index.js
@@ -33,9 +30,9 @@ NodeJS Tp
 
     Par exemple [GET]URL：localhost:3000/api/songs
    
-   [GET]URL：localhost:4200/api/songs/{id}
+   [GET]URL：localhost:3000/api/songs/{id}
    
-   [POST]URL:localhost:4200/api/songs
+   [POST]URL:localhost:3000/api/songs
    
    avec body de json
    
@@ -48,4 +45,4 @@ NodeJS Tp
     
     Bonus:
     
-    [get]url:
+    [get]url:localhost:3000/api/artists

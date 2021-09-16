@@ -12,7 +12,7 @@ NodeJS Tp
     git clone https://github.com/justplay-bit/INTES_Grouper6.git
 
 
-2. Modifiez le fichier de configuration de la base de données dans database.js dans le fichier de configuration
+2. Modifiez le fichier de configuration de la base de données dans <database.js> et <chanson.repostroy.js>  dans le fichier de configuration
    Par exemple： USER et PASSWORD.
 	 
 	 Et puis ,Créer une table nommée "tp" localement.

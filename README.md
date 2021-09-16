@@ -31,6 +31,21 @@ NodeJS Tp
 
 5. Tester l'api dans "postman"
 
-    Par exemple URL：localhost:3000/api/songs
+    Par exemple [GET]URL：localhost:3000/api/songs
    
-   URL：localhost:4200/api/songs/{id}
+   [GET]URL：localhost:4200/api/songs/{id}
+   
+   [POST]URL:localhost:4200/api/songs
+   
+   avec body de json
+   
+   {
+    "titre":"my song",
+    "temps":5,
+    "genre":"lovely song",
+    "auteur":"mememe"
+    }
+    
+    Bonus:
+    
+    [get]url:

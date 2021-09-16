@@ -2,7 +2,7 @@ const express = require("express");
 const chansonRouter = express.Router();
 const ChansonController = require("../controller/chanson.controller");
 const { validate } = require("express-validation");
-const ChansonValidator = require("../validators/sauce.validators");
+const ChansonValidator = require("../validator/chanson.validator");
 
 const API_CHANSONS_PARAM = `/:id`;
 const API_CHANSONS_QUERY = `/artists`;

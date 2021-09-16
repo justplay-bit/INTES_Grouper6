@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="775ad49c-59a2-4b6f-bb9a-ec9cb3fa96c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y27O43OMeoc6YzBWtX72MiVthn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/router" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/router" />
+      <recent name="$PROJECT_DIR$/model" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="775ad49c-59a2-4b6f-bb9a-ec9cb3fa96c1" name="Default Changelist" comment="" />
+      <created>1631437793905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631437793905</updated>
+      <workItem from="1631437795123" duration="6875000" />
+      <workItem from="1631601085870" duration="1973000" />
+      <workItem from="1631608960250" duration="547000" />
+      <workItem from="1631613115855" duration="4000" />
+      <workItem from="1631705228560" duration="26000" />
+      <workItem from="1631792814776" duration="4394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom" timestamp="1631797444726">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1631797444726" />
+    <state width="1379" height="201" key="GridCell.Tab.0.center" timestamp="1631797444726">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1631797444726" />
+    <state width="1379" height="201" key="GridCell.Tab.0.left" timestamp="1631797444725">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1631797444725" />
+    <state width="1379" height="201" key="GridCell.Tab.0.right" timestamp="1631797444726">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1631797444726" />
+    <state x="365" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1631795390064">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="365" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1631795390064" />
+  </component>
+</project>

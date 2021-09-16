@@ -46,3 +46,5 @@ NodeJS Tp
     Bonus:
     
     [get]url:localhost:3000/api/artists
+    
+    attention!!!!!"Cela doit être fait sur le système mac"
